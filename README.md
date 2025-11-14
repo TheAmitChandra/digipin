@@ -59,7 +59,7 @@ DIGIPIN simplifies address management and enhances service delivery accuracy, pr
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/CEPT-VZG/digipin.git
+git clone https://github.com/INDIAPOST-gov/digipin.git
 cd digipin
 ```
 
